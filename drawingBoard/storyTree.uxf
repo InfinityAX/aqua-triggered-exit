@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
-      <y>200</y>
+      <x>400</x>
+      <y>560</y>
       <w>440</w>
       <h>120</h>
     </coordinates>
@@ -17,8 +17,8 @@ Summary</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1020</x>
-      <y>200</y>
+      <x>1000</x>
+      <y>560</y>
       <w>240</w>
       <h>120</h>
     </coordinates>
@@ -30,12 +30,24 @@ Summary</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>840</x>
-      <y>240</y>
+      <x>820</x>
+      <y>600</y>
       <w>220</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>90.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>280</x>
+      <y>220</y>
+      <w>200</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>This is a text element to place text anywhere.
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
   </element>
 </diagram>

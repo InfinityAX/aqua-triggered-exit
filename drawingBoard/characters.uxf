@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>13</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>52</x>
+      <y>286</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Furry
+-
+Appearances
+
+
+-
+Behaviour
+
+
+-
+Abilities
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>338</x>
+      <y>286</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Human
+-
+Appearances
+
+
+-
+Behaviour
+
+
+-
+Abilities
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>65</x>
+      <y>351</y>
+      <w>130</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>- 
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>39</x>
+      <y>247</y>
+      <w>585</w>
+      <h>299</h>
+    </coordinates>
+    <panel_attributes>Mujin
+-
+layer=-1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>767</x>
+      <y>286</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Furry
+-
+Appearances
+
+
+-
+Behaviour
+
+
+-
+Abilities
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1053</x>
+      <y>286</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Human
+-
+Appearances
+
+
+-
+Behaviour
+
+
+-
+Abilities
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>780</x>
+      <y>351</y>
+      <w>130</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>- 
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>754</x>
+      <y>247</y>
+      <w>585</w>
+      <h>299</h>
+    </coordinates>
+    <panel_attributes>Main Character
+-
+layer=-1</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>546</x>
+      <y>637</y>
+      <w>273</w>
+      <h>247</h>
+    </coordinates>
+    <panel_attributes>Dr. K
+-
+Appearances
+
+
+-
+Behaviour
+
+
+-
+Abilities
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
